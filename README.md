@@ -9,5 +9,5 @@
 Here are some interesting facts about me
 
 - 🔭 I’m currently working on ***
-- 🌱 I’m learning Jakarta EE, Flutter, Jetpack Compose
+- 🌱 I’m learning Jakarta EE, Spring boot, Nexst.js, Jetpack Compose
 - 😄 Pseudo: @StephDev18#
